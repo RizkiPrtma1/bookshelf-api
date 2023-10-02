@@ -18,6 +18,9 @@
         "defaultAssignment": "off",
         "no-unneeded-ternary": "off",
         "consistent-return": "off",
-        "no-else-return": "off"
+        "no-else-return": "off",
+        "comma-dangle": "off",
+        "implicit-arrow-linebreak": "off",
+        "function-paren-newline": "off"
     }
 }
